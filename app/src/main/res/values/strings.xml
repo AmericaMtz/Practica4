@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Perce-Care</string>
+    <string name="login">Login</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="Olvidaste">¿Olvidaste la contraseña? </string>
+    <string name="clickAqui"> Da click AQUÍ para recuperarla</string>
+    <string name="Registro">Registrarse</string>
+</resources>
